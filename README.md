@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Elearning project**
 
-- 📝 I regularly write articles on [https://dcblog.dev/](https://dcblog.dev/)
+- 📝 I regularly write articles on [https://coderivers.hashnode.dev/](https://dcblog.dev/)
 
 - 💬 Ask me about **PHP,Laravel,Tailwind,Alpine Vue and React Js**
 
