@@ -11,9 +11,9 @@
 
 - 📝 I regularly write articles on [https://coderivers.hashnode.dev/](https://dcblog.dev/)
 
-- 💬 Ask me about **PHP,Laravel,Tailwind,Alpine Vue and React Js**
+- 💬 Ask me about **PHP,Laravel,Tailwind,Alpine Vue and React Js,Python and Django**
 
-- 📫 How to reach me **fredpeter**
+- 📫 How to reach me **fredpeter09899@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
