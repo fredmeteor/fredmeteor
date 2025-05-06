@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/fredmeteor" target="blank"><img src="https://img.shields.io/twitter/follow/fredmeteor?logo=twitter&style=for-the-badge" alt="fredmeteor" /></a> </p>
 
-- 🌱 I’m currently working at **Elearning project**
+- 🌱 I’m currently working at **Hospital Management System(EMRPRO SUITE)**
 
 - 📝 I regularly write articles on [https://coderivers.hashnode.dev/](https://dcblog.dev/)
 
